@@ -9,4 +9,6 @@ I'm Passionate Full stack developer :)
      technologies and frameworks to enhance my capabilities as a developer.
      
     
-- 📫 How to reach me: Linoya995@gmail.com
+- How to reach me: 
+- 📫  Linoya995@gmail.com
+- 🔗 https://www.linkedin.com/in/linoy-cohen-59398a169/
