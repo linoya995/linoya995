@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Linoy
 
-<!--
-**linoya995/linoya995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Passionate Full stack developer :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 I’m currently working as a full-stack developer, specializing in React and Node.js,
+      where I bring together my expertise in both front-end and back-end technologies to 
+      deliver seamless and scalable web applications
+- 🌟 I have a strong desire to expand my knowledge and skill set, exploring emerging 
+     technologies and frameworks to enhance my capabilities as a developer.
+     
+    
+- 📫 How to reach me: Linoya995@gmail.com
